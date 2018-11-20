@@ -54,6 +54,8 @@ tag/hashtag recommendation for multimedia in social network
 # 2015
 ## AAAI 2015
 - [Relational Stacked Denoising Autoencoder for Tag Recommendation. Hao WANG](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9350/9980)
+-[Personalized Tag Recommendation through Nonlinear Tensor Factorization Using Gaussian Kernel.](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9839/9278)
+
 
 # 2014
 ##  ICACCI 2014
