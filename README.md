@@ -1,5 +1,5 @@
 # deep_learning_for_tag_recommendation
-this is the collection for the papers and codes for tag/hashtag recommendation
+tag/hashtag recommendation for multimedia in social network
 # 2018
 ## IJCAI 2018
 - [Hashtag2Vec: Learning Hashtag Representation with Relational Hierarchical Embedding Model](https://www.ijcai.org/proceedings/2018/480)
