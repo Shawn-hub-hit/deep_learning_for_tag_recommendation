@@ -33,10 +33,10 @@ tag/hashtag recommendation for multimedia in social network
 ##  IJDATS
 - [Recommendation of hashtags in social Twitter network](http://www.inderscience.com/offer.php?id=86631)
 
-## PAKDD (1) 2017
+## PAKDD 2017
 - [Personalized Deep Learning for Tag Recommendation](https://link.springer.com/chapter/10.1007%2F978-3-319-57454-7_15)
 
-## ECML/PKDD (2) 2017
+## ECML/PKDD 2017
 - [Personalized Tag Recommendation for Images Using Deep Transfer Learning](https://www.ismll.uni-hildesheim.de/pub/pdfs/nguyen17_ecml.pdf)
 
 # 2016
