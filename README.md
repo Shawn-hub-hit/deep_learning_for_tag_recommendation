@@ -51,6 +51,10 @@ tag/hashtag recommendation for multimedia in social network
 ##  CIKM 2016
 - [Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling](https://dl.acm.org/citation.cfm?doid=2983323.2983874)
 
+# 2015
+## AAAI 2015
+- [Relational Stacked Denoising Autoencoder for Tag Recommendation. Hao WANG](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9350/9980)
+
 # 2014
 ##  ICACCI 2014
 - [Towards Twitter hashtag recommendation using distributed word representations and a deep feed forward neural network](http://ieeexplore.ieee.org/document/6968557/?arnumber=6968557&tag=1)
