@@ -3,18 +3,25 @@ tag/hashtag recommendation for multimedia in social network
 # 2018
 ## IJCAI 2018
 - [Hashtag2Vec: Learning Hashtag Representation with Relational Hierarchical Embedding Model](https://www.ijcai.org/proceedings/2018/480)
+
 ## SIGIR 2018
 - [Killing Two Birds With One Stone: Concurrent Ranking of Tags and Comments of Social Images](https://www.researchgate.net/profile/Sourav_S_Bhowmick/publication/326134318_Killing_Two_Birds_With_One_Stone_Concurrent_Ranking_of_Tags_and_Comments_of_Social_Images/links/5b3e22120f7e9b0df5f4cd17/Killing-Two-Birds-With-One-Stone-Concurrent-Ranking-of-Tags-and-Comments-of-Social-Images.pdf)
+
 ## Neurocomputing 2018
 - [Guiding supervised topic modeling for content based tag recommendation](http://cs.nju.edu.cn/yuanyao/static/neuro2018.pdf)
 - [Hashtag recommendation for multimodal microblog posts](https://ac.els-cdn.com/S0925231217311840/1-s2.0-S0925231217311840-main.pdf?_tid=90a8027d-53cd-4dbd-b130-49dc7e3c05de&acdnat=1542682662_f2b4ec6371736c747f430b5eeb46288d)
 
 ## ICSE (Companion Volume) 2018
 - [Semantically enhanced tag recommendation for software CQAs via deep learning](https://dl.acm.org/citation.cfm?doid=3183440.3194977)
+
 ## Journal of Computer Science and Technology
 - [Hashtag Recommendation Based on Multi-Features of Microblogs](https://link.springer.com/article/10.1007%2Fs11390-018-1851-2)
+
 ## BDCA 2018
 - [Hashtag Recommendation Using Word Sequences' Embeddings](https://link.springer.com/chapter/10.1007%2F978-3-319-96292-4_11)
+
+## WSDM 2018
+- [Extreme Multi-label Learning with Label Features for Warm-start Tagging, Ranking & Recommendation](http://delivery.acm.org/10.1145/3100000/3098094/p1245-yang.pdf?ip=202.114.121.196&id=3098094&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E4977B3C8BBB4AEC7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1542935950_7745e3893a56ff100617a4bc32de5afd)
 
 # 2017
 
