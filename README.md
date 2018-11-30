@@ -62,7 +62,7 @@ tag/hashtag recommendation for multimedia in social network
 ## AAAI 2015
 - [Relational Stacked Denoising Autoencoder for Tag Recommendation. Hao WANG](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9350/9980)
 
--[Personalized Tag Recommendation through Nonlinear Tensor Factorization Using Gaussian Kernel.](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9839/9278)
+- [Personalized Tag Recommendation through Nonlinear Tensor Factorization Using Gaussian Kernel.](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9839/9278)
 ## SIGKDD 2015
 - [User Conditional Hashtag Prediction for Images. Emily Denton](http://www.thespermwhale.com/jaseweston/papers/imagetags.pdf)
 
