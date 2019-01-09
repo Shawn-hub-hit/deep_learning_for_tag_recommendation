@@ -1,5 +1,9 @@
 # deep_learning_for_tag_recommendation
 tag/hashtag recommendation for multimedia in social network
+# 2019
+## AAAI
+- Hashtag Recommendation for Photo Sharing Services. AAAI2019
+
 # 2018
 ## IJCAI 2018
 - [Hashtag2Vec: Learning Hashtag Representation with Relational Hierarchical Embedding Model](https://www.ijcai.org/proceedings/2018/480)
@@ -57,6 +61,7 @@ tag/hashtag recommendation for multimedia in social network
 - [Tweet modeling with LSTM recurrent neural networks for hashtag recommendation](http://ieeexplore.ieee.org/document/7727385/)
 ##  CIKM 2016
 - [Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling](https://dl.acm.org/citation.cfm?doid=2983323.2983874)
+- Tag2Word: Using Tags to Generate Words for Content Based Tag Recommendation
 
 # 2015
 ## AAAI 2015
